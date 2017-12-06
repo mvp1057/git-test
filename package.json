@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mvp1057/git-test#readme",
   "dependencies": {
+    "gsap": "^1.20.3",
     "jquery": "^3.2.1"
   }
 }
